@@ -1,0 +1,4 @@
+[submodule "gitteste2"]
+	path = gitteste2
+	url = https://github.com/anapschneider/gitteste2.git
+	branch = master
